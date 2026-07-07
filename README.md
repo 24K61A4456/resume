@@ -1,2 +1,109 @@
-# resume
-namskaram andi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        .contact {
+            margin-bottom: 20px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .job, .education {
+            margin-bottom: 15px;
+        }
+
+        .date {
+            float: right;
+            color: #666;
+        }
+
+        ul {
+            margin-top: 5px;
+        }
+
+        .skills span {
+            display: inline-block;
+            background: #f4f4f4;
+            padding: 5px 10px;
+            margin: 3px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>sai subrahmanyam</h1>
+    <div class="contact">
+        Email:subrahmanyam.thanarapu24@sasi.ac.in |
+        Phone: +91 8143631442|
+        LinkedIn: linkedin.com/in/sai|
+        City, Country
+    </div>
+
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>
+            Results-driven software developer with 3+ years of experience
+            designing, developing, and maintaining web applications.
+            Skilled in JavaScript, HTML, CSS, and modern frameworks.
+        </p>
+    </div>
+
+
+
+        
+
+    <div class="section">
+        <h2>Education</h2>
+
+        <div class="education">
+            <strong>B.tech CSD</strong>
+            <span class="date">2024 - 2028</span>
+            <p>sasi</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <div class="skills">
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JavaScript</span>
+            <span>React</span>
+            <span>Node.js</span>
+            <span>SQL</span>
+            <span>Git</span>
+        </div>
+    </div>
+
+</body>
+</html>
