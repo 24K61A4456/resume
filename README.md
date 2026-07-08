@@ -86,9 +86,9 @@
         <h2>Education</h2>
 
         <div class="education">
-            <strong>B.tech CSD</strong>
+            <strong>SASI TPG</strong>
             <span class="date">2024 - 2028</span>
-            <p>sasi</p>
+            <p>B>TECH -CSDi</p>
         </div>
     </div>
 
